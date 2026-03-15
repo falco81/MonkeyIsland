@@ -33,6 +33,10 @@ Both tools are **fully offline** – all assets (fonts, disk images) are embedde
 
 ## MI1 – Dial-a-Pirate
 
+| Back disk (faces + years) | Front disk (islands) |
+|---|---|
+| ![Dial-a-Pirate back](doc/dialapirate-w1.png) | ![Dial-a-Pirate front](doc/dialapirate-w2.png) |
+
 ![Dial-a-Pirate](https://img.shields.io/badge/game-Monkey%20Island%201-purple)
 
 ### How the physical wheel works
@@ -110,6 +114,10 @@ The birth year is shown automatically once all three selections are made (top ha
 ---
 
 ## MI2 – Mix 'n' Mojo
+
+| Back disk (proportions) | Front disk (affliction windows) |
+|---|---|
+| ![Mix n Mojo back](doc/mixnmojo-w1.png) | ![Mix n Mojo front](doc/mixnmojo-w2.png) |
 
 ![Mix n Mojo](https://img.shields.io/badge/game-Monkey%20Island%202-gold)
 
